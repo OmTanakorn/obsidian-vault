@@ -1,0 +1,30 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "openAtStartup": false,
+        "format": "",
+        "templatePath": "99_System/Templates/Daily_Log.md",
+        "folder": "10_Journal/Daily"
+      },
+      "week": {
+        "enabled": true,
+        "format": "",
+        "templatePath": "99_System/Templates/Weekly_Log.md",
+        "folder": "10_Journal/Weekly"
+      },
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Default",
+      "ctime": "2026-01-22T11:52:17+07:00"
+    }
+  ],
+  "enableTimelineComplication": true
+}
