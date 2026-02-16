@@ -3,5 +3,6 @@
   "templater-obsidian",
   "dataview",
   "smart-connections",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]
