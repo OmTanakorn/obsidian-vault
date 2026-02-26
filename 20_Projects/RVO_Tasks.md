@@ -13,10 +13,9 @@ Tracking and managing RVO (Normal & Urgent) and VO related tasks within the AWC 
 ## 📝 To-Do / Roadmap
 
 ### 🔥 In Progress
-- [ ] **AWC-669**: [Backend] Edit Normal RVO Setting Workflow (@Tanakorn Aphiwanphakdee)
-- [ ] **AWC-668**: [Backend] Seeds Normal RVO Setting Workflow (@Tanakorn Aphiwanphakdee)
-- [ ] **AWC-667**: [Web] Normal RVO Template Setting (@Yok'Naron)
-- [ ] **AWC-666**: [Web] Normal RVO Notification Setting (@Yok'Naron)
+- [ ] **AWC-90**: [Backend] เอา Sync Data ที่ Home ออก (@Tanakorn Aphiwanphakdee)
+- [ ] **AWC-450**: [Backend] Logic ดึง Project/PO จาก SAP (@Tanakorn Aphiwanphakdee)
+- [ ] **AWC-443**: [Backend] SAP Data Management Feature (@Tanakorn Aphiwanphakdee)
 
 ### 📋 To Do (RVO/VO Feature)
 - [ ] **AWC-700**: [RVO] Handling Document Permission (@Yok'Naron)
@@ -38,6 +37,10 @@ Tracking and managing RVO (Normal & Urgent) and VO related tasks within the AWC 
 - [ ] **AWC-639**: [Web] Create Normal RVO Request (PR Request) (@Yok'Naron)
 
 ### ✅ Completed
+- [x] **AWC-669**: [Backend] Edit Normal RVO Setting Workflow (@Tanakorn Aphiwanphakdee)
+- [x] **AWC-668**: [Backend] Seeds Normal RVO Setting Workflow (@Tanakorn Aphiwanphakdee)
+- [x] **AWC-667**: [Web] Normal RVO Template Setting (@Yok'Naron)
+- [x] **AWC-666**: [Web] Normal RVO Notification Setting (@Yok'Naron)
 - [x] **AWC-488**: [Web] Setting Workflow for Urgent RVO Feature
 - [x] **AWC-486**: [Web] Urgent RVO Feature
 - [x] **AWC-464**: [Web] Setting Workflow for Normal RVO Feature

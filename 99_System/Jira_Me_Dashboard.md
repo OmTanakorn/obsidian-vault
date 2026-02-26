@@ -17,11 +17,13 @@ updated: 2026-02-25
 - [ ] **AWC-322**: Change Logic "Step Type" to "Response Type" [High]
 
 ## 🛠 In Progress
-- [ ] **AWC-669**: [Backend] Edit Normal RVO Setting Workflow
-- [ ] **AWC-668**: [Backend] Seeds Normal RVO Setting Workflow
 - [ ] **AWC-90**: [Backend] เอา Sync Data ที่ Home ออก
 - [ ] **AWC-450**: [Backend] Logic ดึง Project/PO จาก SAP
 - [ ] **AWC-443**: [Backend] SAP Data Management Feature (Project+PO)
+
+## ✅ Done (Recently)
+- [x] **AWC-669**: [Backend] Edit Normal RVO Setting Workflow
+- [x] **AWC-668**: [Backend] Seeds Normal RVO Setting Workflow
 
 ## 📋 To Do (General)
 - [ ] **AWC-699**: [Backend] Adjust the display of the Package Name
