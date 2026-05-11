@@ -1,4 +1,4 @@
-# 🏰 The Arch Way: Obsidian Vault
+/# 🏰 The Arch Way: Obsidian Vault
 
 > **Minimalist. Functional. Scalable.**
 > A text-based productivity system designed for engineers. No bloat, just focus.

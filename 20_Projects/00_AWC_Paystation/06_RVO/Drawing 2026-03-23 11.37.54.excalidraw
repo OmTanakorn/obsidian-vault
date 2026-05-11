@@ -1,0 +1,83 @@
+---
+excalidraw-plugin: parsed
+tags: [excalidraw]
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+
+## Text Elements
+RVO Reason Mapping ^title
+User Choice (Enum) ^col1
+SAP Field ^col2
+DESIGN_FAULTY ^enum1
+AUTHORITIES_REQUIRE ^enum2
+SCHEDULE_PHASING ^enum3
+OPERATOR_CUSTOMER ^enum4
+MATERIAL_SPEC ^enum5
+CONSTRUCTION_METHOD ^enum6
+COST_OPTIMIZATION ^enum7
+SCOPE_REQUIRE ^enum8
+AWC_REQUIRE ^enum9
+SITE_CONDITION ^enum10
+OTHERS ^enum11
+reason_faulty_design ^sap1
+reason_authorities_req ^sap2
+reason_customer_req ^sap4
+reason_design_refinement ^sap5
+reason_missing_scope ^sap8
+reason_tcc_requirement ^sap9
+reason_site_condition ^sap10
+reason_other ^sap_other
+Fallback to Other ^fallback_note
+
+%%
+## Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"id": "title",
+			"type": "text",
+			"x": 200,
+			"y": -50,
+			"width": 300,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1,
+			"version": 1,
+			"versionNonce": 1,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1,
+			"link": null,
+			"locked": false,
+			"text": "RVO Reason Mapping",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "RVO Reason Mapping"
+		}
+	],
+	"appState": {
+		"viewBackgroundColor": "#ffffff"
+	},
+	"files": {}
+}
+```
+%%
